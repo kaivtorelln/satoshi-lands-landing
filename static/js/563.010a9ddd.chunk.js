@@ -1,0 +1,1 @@
+(self.webpackChunksatoshi_lands=self.webpackChunksatoshi_lands||[]).push([[563],{36563:function(){}}]);
